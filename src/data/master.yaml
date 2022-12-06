@@ -1,9 +1,14 @@
 - title: Introduction
   pages:
-    - title: Overview
-      path: /overview/overview
-    - title: What are Enterprise Accounts
-      path: /overview/what-are-enterprise-accounts
+    - title: Introduction
+      path: /01-introduction/01-introduction
+    - title: Course Nomenclature
+      path: /01-introduction/02-nomenclature
+    - title: Basic Architecture
+      path: /01-introduction/03-basic-architecture
+    - title: Training Architecture
+      path: /01-introduction/04-training-architecture
+
       
 - title: Videos
   pages:
