@@ -14,7 +14,7 @@ module.exports = {
         isSearchEnabled: true,
         repository: {
           baseUrl:
-              'https://github.com/ibm-gsi-ecosystem/ibm-enterprise-runbooks',
+              'https://github.com/gatsby',
           subDirectory: '/',
         },
       },

@@ -13,7 +13,7 @@ const Content = () => (
             <br /> an issue on{' '}
             <a
                 style={{ textDecoration: 'underline' }}
-                href="https://github.com/ibm-gsi-ecosystem/ibm-enterprise-runbooks/issues">
+                href="https://github.com/gatsby/issues">
                 GitHub.
             </a>
         </p>

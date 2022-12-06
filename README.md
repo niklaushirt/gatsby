@@ -5,7 +5,7 @@
 
 The IBM Cloud Enterprise Run Books help IBM Cloud operations teams managing Enterprise Subscription Account. A Run Book is description [here](https://en.wikipedia.org/wiki/Runbook), this is summarised with this sentence. In a computer system or network, a runbook is a compilation of routine procedures and operations that the system administrator or operator carries out. System administrators in IT departments and NOCs use runbooks as a reference. Runbooks can be in either electronic or in physical book form. Typically, a runbook contains procedures to begin, stop, supervise, and debug the system. It may also describe procedures for handling special requests and contingencies. An effective runbook allows other operators, with prerequisite expertise, to effectively manage and troubleshoot a system.   
 
-The rendered Run Books can be viewed here - [https://github.com/ibm-gsi-ecosystem/ibm-enterprise-runbooks](https://github.com/ibm-gsi-ecosystem/ibm-enterprise-runbooks)
+The rendered Run Books can be viewed here - [https://github.com/gatsby](https://github.com/gatsby)
 
 To update and manage the Run Books follow these steps.
 
