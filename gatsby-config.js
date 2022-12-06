@@ -6,7 +6,7 @@ module.exports = {
     description: 'IBM Cloud Enterprise Sandbox Run Books',
     keywords: 'ibm,cloud,runbooks',
   },
-  pathPrefix: "/ibm-enterprise-runbooks",
+  pathPrefix: "/gatsby",
   plugins: [
     {
       resolve: 'gatsby-theme-carbon',
